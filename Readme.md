@@ -16,7 +16,11 @@ The system allows:
 Target hardware:
 
 * STM32F411CEU6 (BlackPill)
+* <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/b24435c0-2e92-4be7-9156-56d36cc8db4e" />
+
 * ST-Link V2 debugger
+* <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/c187fe97-a6e5-472e-85de-a29d3663f75a" />
+
 
 ---
 
