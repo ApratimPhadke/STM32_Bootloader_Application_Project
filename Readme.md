@@ -29,8 +29,8 @@ Target hardware:
 ### Option 1 — Clone using Git
 
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone (link of this repo)
+cd (folder)
 ```
 
 ---
